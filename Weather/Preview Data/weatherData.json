@@ -1,0 +1,17 @@
+{
+    "coord":{
+        "lon":0,"lat":0
+    },"weather":[{
+        "id":501,"main":"Rain","description":"moderate rain","icon":"10n"
+    }],"base":"stations","main":{
+        "temp":28.05,"feels_like":32.22,"temp_min":28.05,"temp_max":28.05,"pressure":1008,"humidity":80,"sea_level":1008,"grnd_level":1008
+    },"visibility":10000,"wind":{
+        "speed":3.3,"deg":252,"gust":3.61
+    },"rain":{
+        "1h":1.13
+    },"clouds":{
+        "all":100
+    },"dt":1708661569,"sys":{
+        "sunrise":1708668615,"sunset":1708712220
+    },"timezone":0,"id":6295630,"name":"Globe","cod":200
+}
